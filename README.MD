@@ -17,5 +17,5 @@ type python automate.py in your terminal command. output of your file will be st
 ## Note
 - in this code, if the name length > 3 we just take 2 word from the name
 - you need to tweak line 29 (template.width, 720) according to your lanyard template
-- Feel free to contribute and modify this code! *octocat*
+- Feel free to contribute and modify this code! :octocat:
 
