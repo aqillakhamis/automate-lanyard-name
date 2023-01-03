@@ -4,7 +4,7 @@ import pandas as pd
 template_path = "Final Lanyard EECS.png"
 
 
-font = ImageFont.truetype(r"C:\Users\ASUS\aqilla\Aqilla Stuff\Nurulaqilla Khamis\University\UTM\Work\Taskforce\EECS\FontsFree-Net-norwester.ttf", 50)
+font = ImageFont.truetype(r"FontsFree-Net-norwester.ttf", 50)
 
 #load name list
 data = pd.read_csv('./data/student list - CMED.csv')
